@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `日本語ボット`,
+    description: `Weird WaniKani Discord Integrations I GUESS`,
     author: `@gatsbyjs`,
   },
   plugins: [
